@@ -1,6 +1,6 @@
 # Azure Concepts in Real Life
 
-This repository aims to explain key Azure concepts through relatable real-life analogies, making it easier to understand and visualize how these services work in practical scenarios.
+This repository aims to explain key Azure concepts through relatable real-life analogies, making it easier to understand and visualize how these services work in practical scenarios. We will imagine Azure as a shopping mall to provide a familiar context for understanding these concepts.
 
 ## Contents
 
